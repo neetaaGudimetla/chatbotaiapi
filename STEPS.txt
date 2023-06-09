@@ -1,0 +1,60 @@
+====================================================================================
+git add .
+git commit -m "Initial Project"
+git push origin main
+====================================================================================
+E:\AI-Related>git clone https://github.com/neetaaGudimetla/chatbotaiapi.git
+Cloning into 'chatbotaiapi'...
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (5/5), 5.47 KiB | 101.00 KiB/s, done.
+
+E:\AI-Related>cd ChatBOTAIALL-src
+
+E:\AI-Related\ChatBOTAIALL-src>cd..
+
+E:\AI-Related>cd chatbotaiapi
+
+E:\AI-Related\chatbotaiapi>dir
+ Volume in drive E is DATA
+ Volume Serial Number is 0ED0-D3D0
+
+ Directory of E:\AI-Related\chatbotaiapi
+
+09-06-2023  13:29    <DIR>          .
+09-06-2023  13:29    <DIR>          ..
+09-06-2023  13:29             2,177 .gitignore
+09-06-2023  13:29            11,558 LICENSE
+09-06-2023  13:29                14 README.md
+               3 File(s)         13,749 bytes
+               2 Dir(s)  331,547,627,520 bytes free
+
+E:\AI-Related\chatbotaiapi>git init
+Reinitialized existing Git repository in E:/AI-Related/chatbotaiapi/.git/
+
+E:\AI-Related\chatbotaiapi>git add .
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+
+E:\AI-Related\chatbotaiapi>git commit -m "Initial Project"
+[main d483e89] Initial Project
+ 5 files changed, 8398 insertions(+)
+ create mode 100644 aibotapi.js
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 pdfjs-dist.d.ts
+ create mode 100644 uploads/Invoice-for-EPPR-Mobile-Web-Apps.pdf
+
+E:\AI-Related\chatbotaiapi>git push origin main
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (8/8), 152.72 KiB | 10.91 MiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/neetaaGudimetla/chatbotaiapi.git
+   5b794ba..d483e89  main -> main
+
+E:\AI-Related\chatbotaiapi>
