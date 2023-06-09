@@ -1,21 +1,23 @@
-# Stage 1: Node.js base image for installing dependencies
-FROM node:18-alpine
-
-WORKDIR /usr/src/app    
-
-COPY package*.json ./
-RUN npm i --legacy-peer-deps
-COPY . .
-
-# Stage 2: Final image with Puppeteer
-FROM ghcr.io/puppeteer/puppeteer:20.5.0
+# Stage 1: Load Puppeteer image
+FROM ghcr.io/puppeteer/puppeteer:20.5.0 AS puppeteer
 ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true \
     PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome-stable
 
-WORKDIR /app   
+# Stage 2: Install Node modules
+FROM node:18-alpine
 
-COPY --from=base /usr/src/app /usr/src/app   
+WORKDIR /app    
 
-# Copy the rest of your application code if needed
+COPY package*.json ./
 
+# Install Node modules
+RUN npm install
+
+# Copy installed dependencies from Puppeteer image
+COPY --from=puppeteer /node_modules /app/node_modules
+
+# Copy the rest of your application code
+COPY . .
+
+# Set the startup command
 CMD ["node", "aibotapi.js"]
