@@ -464,6 +464,10 @@ async function chromiumExecutablePath() {
 }
 async function convertHtmlToPdf(html, filePath) {
 
+    /* executablePath: process.env.NODE_ENV === "production"
+            ? process.env.PUPPETEER_EXECUTABLE_PATH
+            : puppeteer.executablePath(), */
+
     const browser = await puppeteer.launch({
         args: [
             "--disable-setuid-sandbox",
@@ -471,11 +475,7 @@ async function convertHtmlToPdf(html, filePath) {
             "--single-process",
             "--no-zygote",
         ],
-        executablePath: process.env.NODE_ENV === "production"
-            ? process.env.PUPPETEER_EXECUTABLE_PATH
-            : puppeteer.executablePath(),
-
-
+        executablePath: "/usr/bin/google-chrome-stable",
     });
 
     console.log(await browser.version());
