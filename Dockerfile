@@ -6,7 +6,13 @@ ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true \
 # Stage 2: Install Node modules
 FROM node:18-alpine
 
-WORKDIR /usr/app    
+# Install Google Chrome Stable
+RUN wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add - && \
+    echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list && \
+    apt-get update && \
+    apt-get install -yq google-chrome-stable
+
+WORKDIR /usr/src/app    
 
 COPY package*.json ./
 
