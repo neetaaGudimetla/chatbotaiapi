@@ -5,6 +5,6 @@ ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true \
 
 WORKDIR /
 COPY package*.json ./
-RUN npm i
+RUN npm i --legacy-peer-deps
 COPY . .
 CMD [ "node","aibotapi.js" ]
