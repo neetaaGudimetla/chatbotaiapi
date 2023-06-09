@@ -486,7 +486,7 @@ async function convertHtmlToPdf(html, filePath) {
  
  }); */
     const browser = await puppeteer.launch({
-        headless: true,
+        headless: 'new',
         ignoreDefaultArgs: ['--disable-extensions'],
 
     });

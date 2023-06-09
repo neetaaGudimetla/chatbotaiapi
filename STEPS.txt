@@ -58,3 +58,23 @@ To https://github.com/neetaaGudimetla/chatbotaiapi.git
    5b794ba..d483e89  main -> main
 
 E:\AI-Related\chatbotaiapi>
+
+DOCKER RELATED CHROME INSTALLATION IN RENDER.COM
+https://youtu.be/6cm6G78ZDmM
+
+puppeteer docker
+https://pptr.dev/guides/docker
+
+"puppeteer": "^20.5.0",
+"puppeteer": "16.1.0",
+
+
+https://pptr.dev/troubleshooting
+ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD true
+
+github.com puppeteer
+
+https://github.com/puppeteer
+https://github.com/puppeteer/puppeteer/tree/main/docker
+https://github.com/puppeteer/puppeteer/blob/main/docker/Dockerfile
+CMD ["google-chrome-stable"]
