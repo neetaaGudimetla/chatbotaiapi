@@ -6,7 +6,7 @@ ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true \
 # Stage 2: Install Node modules
 FROM node:18-alpine
 
-WORKDIR /app    
+WORKDIR /usr/app    
 
 COPY package*.json ./
 
