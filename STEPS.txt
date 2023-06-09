@@ -106,3 +106,22 @@ To https://github.com/neetaaGudimetla/chatbotaiapi.git
 E:\AI-Related\chatbotaiapi>
 ----------------------
 https://github.com/neetaaGudimetla/chatbotaiapi/blob/main/Dockerfile
+
+E:\AI-Related\chatbotaiapi>git add .
+
+E:\AI-Related\chatbotaiapi>git commit -m "Updated args and exe paths for puppeteer"
+[main c77b270] Updated args and exe paths for puppeteer
+ 2 files changed, 40 insertions(+), 27 deletions(-)
+
+E:\AI-Related\chatbotaiapi>git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 848 bytes | 848.00 KiB/s, done.
+Total 4 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/neetaaGudimetla/chatbotaiapi.git
+   487834f..c77b270  main -> main
+
+E:\AI-Related\chatbotaiapi>
