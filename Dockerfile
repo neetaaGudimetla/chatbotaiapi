@@ -13,9 +13,6 @@ COPY package*.json ./
 # Install Node modules
 RUN npm i --legacy-peer-deps
 
-# Copy installed dependencies from Puppeteer image
-COPY --from=puppeteer /node_modules /node_modules
-
 # Copy the rest of your application code
 COPY . .
 
