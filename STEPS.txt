@@ -244,9 +244,9 @@ FROM ghcr.io/puppeteer/puppeteer:20.5.0
 ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true \
     PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome-stable
 
-WORKDIR /usr/src/app    
+WORKDIR /app
 
-COPY --from=base /usr/src/app /usr/src/app
+COPY --from=base /app /app
 
 # Copy the rest of your application code if needed
 
