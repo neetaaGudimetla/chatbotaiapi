@@ -10,7 +10,7 @@ import { Configuration, OpenAIApi } from "openai";
 import dotenv from 'dotenv';
 import fetch from "node-fetch";
 import mammoth from 'mammoth';
-import puppeteer from 'puppeteer';
+import * as puppeteer from 'puppeteer';
 import { jsPDF } from 'jspdf';
 import fs from 'fs';
 import multer from 'multer';
@@ -471,15 +471,17 @@ async function convertHtmlToPdf(html, filePath) {
     const output = exec('which chromium-browser').toString().trim();
     console.log('-------- CHROME PATH 111 -------------> ' + output.toString());
 
-    const userDataDir = path.join(__dirname, 'user_data');
-    console.log('userDataDir :: ' + userDataDir);
+    /*  const userDataDir = path.resolve(__dirname, 'user_data');
+     console.log('userDataDir :: ' + userDataDir);
+  */
 
 
-    const browser = await puppeteer.launch({
+    /* const browser = await puppeteer.launch({
         headless: 'new',
-        userDataDir: userDataDir,
         args: ['--no-sandbox']
-    });
+    }); */
+    const browser = await puppeteer.launch();
+    console.log(await browser.version());
     const page = await browser.newPage();
 
     await page.setContent(html);
