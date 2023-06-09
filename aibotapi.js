@@ -463,31 +463,18 @@ async function chromiumExecutablePath() {
     return puppeteer.executablePath();
 }
 async function convertHtmlToPdf(html, filePath) {
-    //console.log('process.env.PUPPETEER_EXECUTABLE_PATH :: ' + process.env.PUPPETEER_EXECUTABLE_PATH);
-    //executablePath: process.env.PUPPETEER_EXECUTABLE_PATH,
-    // executablePath: 'chromium',
-    //executablePath: await chromiumExecutablePath(),
 
-    const output = exec('which chromium-browser').toString().trim();
-    console.log('-------- CHROME PATH 111 -------------> ' + output.toString());
-
-    /*  const userDataDir = path.resolve(__dirname, 'user_data');
-     console.log('userDataDir :: ' + userDataDir);
-  */
-
-    //rambo
-    /* const browser = await puppeteer.launch({
-        headless: 'new',
-        args: ['--no-sandbox']
-    }); */
-    //const browser = await puppeteer.launch();
-    /*  const browser = await puppeteer.launch({ headless: "new",
-     cacheDirectory: join(__dirname, '.cache', 'puppeteer'),
- 
- }); */
     const browser = await puppeteer.launch({
-        headless: 'new',
-        ignoreDefaultArgs: ['--disable-extensions'],
+        args: [
+            "--disable-setuid-sandbox",
+            "--no-sandbox",
+            "--single-process",
+            "--no-zygote",
+        ],
+        executablePath: process.env.NODE_ENV === "production"
+            ? process.env.PUPPETEER_EXECUTABLE_PATH
+            : puppeteer.executablePath(),
+
 
     });
 
@@ -496,8 +483,6 @@ async function convertHtmlToPdf(html, filePath) {
 
     await page.setContent(html);
     await page.pdf({ path: filePath });
-
-
 
     await browser.close();
 }

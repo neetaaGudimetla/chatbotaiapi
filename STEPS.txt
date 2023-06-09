@@ -78,3 +78,31 @@ https://github.com/puppeteer
 https://github.com/puppeteer/puppeteer/tree/main/docker
 https://github.com/puppeteer/puppeteer/blob/main/docker/Dockerfile
 CMD ["google-chrome-stable"]
+
+git add .
+git commit -m "Added Docker File"
+git push
+----------------------
+
+E:\AI-Related\chatbotaiapi>git add .
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+
+E:\AI-Related\chatbotaiapi>git commit -m "Added Docker File"
+[main 487834f] Added Docker File
+ 4 files changed, 33 insertions(+), 2 deletions(-)
+ create mode 100644 Dockerfile
+
+E:\AI-Related\chatbotaiapi>git push
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 990 bytes | 990.00 KiB/s, done.
+Total 6 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To https://github.com/neetaaGudimetla/chatbotaiapi.git
+   2b7125f..487834f  main -> main
+
+E:\AI-Related\chatbotaiapi>
+----------------------
+https://github.com/neetaaGudimetla/chatbotaiapi/blob/main/Dockerfile
