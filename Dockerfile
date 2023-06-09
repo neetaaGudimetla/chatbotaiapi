@@ -11,7 +11,7 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install Node modules
-RUN npm install
+RUN npm i --legacy-peer-deps
 
 # Copy installed dependencies from Puppeteer image
 COPY --from=puppeteer /node_modules /app/node_modules
