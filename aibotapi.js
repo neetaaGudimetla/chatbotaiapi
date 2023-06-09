@@ -480,7 +480,9 @@ async function convertHtmlToPdf(html, filePath) {
         headless: 'new',
         args: ['--no-sandbox']
     }); */
-    const browser = await puppeteer.launch();
+    //const browser = await puppeteer.launch();
+    const browser = await puppeteer.launch({ headless: true });
+
     console.log(await browser.version());
     const page = await browser.newPage();
 
