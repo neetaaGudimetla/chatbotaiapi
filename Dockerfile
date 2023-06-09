@@ -14,7 +14,7 @@ ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true \
 
 WORKDIR /app   
 
-COPY --from=base /app /usr/src/app   
+COPY --from=base /usr/src/app /usr/src/app   
 
 # Copy the rest of your application code if needed
 
