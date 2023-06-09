@@ -1,18 +1,25 @@
 FROM node:18
-FROM ghcr.io/puppeteer/puppeteer:20.5.0
-ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true \
-    PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome-stable
-WORKDIR /app
 
-RUN chown -R node:node /app
-USER node
-RUN chmod 644 package.json
-RUN chmod 644 package-lock.json
+WORKDIR /app
 
 COPY package.json package-lock.json* ./
 
-RUN npm install --verbose --legacy-peer-deps
+RUN npm install
+
+RUN apt-get update && \
+    apt-get install -y \
+    chromium \
+    libxss1 \
+    fonts-liberation \
+    libappindicator3-1 \
+    xdg-utils
+
+RUN npm install puppeteer
 
 COPY . .
 
-CMD [ "node","aibotapi.js" ]
+FROM ghcr.io/puppeteer/puppeteer:20.5.0
+ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true \
+    PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome-stable
+
+CMD ["node", "app.js"]
