@@ -1,9 +1,10 @@
 # Stage 1: Node.js base image for installing dependencies
-FROM node:lts AS base
+FROM node:18-alpine
 
 WORKDIR /app
 
 COPY package.json package-lock.json* ./
 
-RUN npm install --verbose
+RUN npm cache clean --force
+RUN npm install
 
