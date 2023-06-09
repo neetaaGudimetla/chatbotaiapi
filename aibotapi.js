@@ -475,13 +475,21 @@ async function convertHtmlToPdf(html, filePath) {
      console.log('userDataDir :: ' + userDataDir);
   */
 
-
+    //rambo
     /* const browser = await puppeteer.launch({
         headless: 'new',
         args: ['--no-sandbox']
     }); */
     //const browser = await puppeteer.launch();
-    const browser = await puppeteer.launch({ headless: "new" });
+    /*  const browser = await puppeteer.launch({ headless: "new",
+     cacheDirectory: join(__dirname, '.cache', 'puppeteer'),
+ 
+ }); */
+    const browser = await puppeteer.launch({
+        headless: true,
+        ignoreDefaultArgs: ['--disable-extensions'],
+
+    });
 
     console.log(await browser.version());
     const page = await browser.newPage();
