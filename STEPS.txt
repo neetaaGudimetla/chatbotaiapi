@@ -296,3 +296,9 @@ COPY . .
 
 # Set the startup command
 CMD ["node", "aibotapi.js"]
+
+
+
+https://youtu.be/6cm6G78ZDmM
+https://youtu.be/6cm6G78ZDmM
+https://youtu.be/6cm6G78ZDmM
