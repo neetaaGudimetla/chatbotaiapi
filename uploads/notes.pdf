@@ -1,0 +1,898 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 28560
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(open AI) Tj
+T* (10web.io) Tj
+T* (product hunt) Tj
+T* (chat gpt prompt course) Tj
+T* (cold emailing) Tj
+T* (digital marketing) Tj
+T* (https://www.salesforge.ai/) Tj
+T* (https://10web-site.ai/91/daring-dodo/) Tj
+T* (Hostinger - 149.00) Tj
+T* () Tj
+T* (+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++) Tj
+T* () Tj
+T* (neetaa.gudimetla@gmail.com) Tj
+T* (Narresh12578) Tj
+T* () Tj
+T* (API KEY) Tj
+T* (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) Tj
+T* (OPENAI_API_KEY='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') Tj
+T* () Tj
+T* (OPENAI_API_KEY='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') Tj
+T* () Tj
+T* (https://platform.openai.com/auth/callback?code=h3T0mZGBHDvUlCyqE3robQxnkvIli2ikqo7BLz66a3Vhy&state=d1ZwZV80SVNvaEFhYmtrQVd1Sy4wYjdPMld6UkpTNUZrcTIzOUw5YVdSZg%3D%3D) Tj
+T* () Tj
+T* (***************************************************) Tj
+T* (https://platform.openai.com/account/org-settings) Tj
+T* (Organization name) Tj
+T* (Personal) Tj
+T* () Tj
+T* (Organization ID) Tj
+T* (org-6xxiChZoVcPtXAUsxtGnUfyD) Tj
+T* () Tj
+T* (API KEY) Tj
+T* (https://platform.openai.com/account/api-keys) Tj
+T* (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) Tj
+T* (***************************************************) Tj
+T* () Tj
+T* () Tj
+T* (UZWALL) Tj
+T* (gvl10287@gmail.com) Tj
+T* (Narresh12578) Tj
+T* (7702793772) Tj
+T* (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) Tj
+T* (organization id) Tj
+T* (org-ZhIASipPJuc0bS07ijF1CaV7) Tj
+T* () Tj
+T* (venkatdada369@gmail.com) Tj
+T* (Uzwall12578) Tj
+T* () Tj
+T* (******************************************************) Tj
+T* (narresh.gudimetlaa@gmail.com) Tj
+T* (Narresh12578) Tj
+T* (API Key) Tj
+T* (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) Tj
+T* (Organization) Tj
+T* (org-kuTQXVi1UdmmEZ8U2CpuYEyv) Tj
+T* (******************************************************) Tj
+T* () Tj
+T* (Good Afternoon Madam,) Tj
+T* (Please add me to the team.) Tj
+T* (I have tried some code for creating app with Open AI, accessing the Model "text-davinci-003".) Tj
+T* (In order to use the OpenAI API, we need to set up a paid account.) Tj
+T* () Tj
+T* (Please try to generate API key with Rate Limit for the Model) Tj
+T* (text-davinci-003) Tj
+T* () Tj
+T* (I need API Key and Organization ID, in order to test the code.) Tj
+T* () Tj
+T* (Thanks and Good Day) Tj
+T* () Tj
+T* () Tj
+T* (Build and Deploy Your Own ChatGPT AI App in JavaScript | OpenAI, Machine Learning) Tj
+T* (Build and Deploy Your Own ChatGPT AI App in JavaScript | OpenAI, Machine Learning) Tj
+T* (Build and Deploy Your Own ChatGPT AI App in JavaScript | OpenAI, Machine Learning) Tj
+T* () Tj
+T* (https://youtu.be/2FeymQoKvrk) Tj
+T* (https://youtu.be/2FeymQoKvrk) Tj
+T* (https://youtu.be/2FeymQoKvrk) Tj
+T* () Tj
+T* () Tj
+T* (111111111111111111111111111111) Tj
+T* () Tj
+T* (curl https://api.openai.com/v1/models \\) Tj
+T* (  -H "Authorization: Bearer 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" \\) Tj
+T* (  -H "OpenAI-Organization: org-6xxiChZoVcPtXAUsxtGnUfyD") Tj
+T* () Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* ($ curl https://api.openai.com/v1/models \\) Tj
+T* (  -H "Authorization: Bearer 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" \\) Tj
+T* (  -H "OpenAI-Organization: org-6xxiChZoVcPtXAUsxtGnUfyD") Tj
+T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj
+T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj
+T* (  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0{) Tj
+T* (  "object": "list",) Tj
+T* (  "data": [) Tj
+T* (    {) Tj
+T* (      "id": "whisper-1",) Tj
+T* (      "object": "model",) Tj
+T* (      "created": 1677532384,) Tj
+T* (      "owned_by": "openai-internal",) Tj
+T* (      "permission": [) Tj
+T* (        {) Tj
+T* (          "id": "modelperm-KlsZlfft3Gma8pI6A8rTnyjs",) Tj
+T* (          "object": "model_permission",) Tj
+T* (          "created": 1683912666,) Tj
+T* (          "allow_create_engine": false,) Tj
+T* (          "allow_sampling": true,) Tj
+T* (          "allow_logprobs": true,) Tj
+T* (          "allow_search_indices": false,) Tj
+T* (          "allow_view": true,) Tj
+T* (          "allow_fine_tuning": false,) Tj
+T* (          "organization": "*",) Tj
+T* (          "group": null,) Tj
+T* (          "is_blocking": false) Tj
+T* (        }) Tj
+T* (      ],) Tj
+T* (      "root": "whisper-1",) Tj
+T* (      "parent": null) Tj
+T* (    },) Tj
+T* () Tj
+T* (----------------------------------------------------------) Tj
+T* () Tj
+T* () Tj
+T* (curl https://api.openai.com/v1/models -H "Authorization: Bearer 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" -H "OpenAI-Organization: test") Tj
+T* () Tj
+T* (curl https://api.openai.com/v1/chat/completions  -H "Content-Type: application/json" -H "Authorization: Bearer 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"  -d '{     "model": "gpt-3.5-turbo",     "messages": [{"role":"user","content": "Say this is a test!"}],     "temperature": 0.7   }') Tj
+T* () Tj
+T* () Tj
+T* (curl https://api.openai.com/v1/chat/completions \\) Tj
+T* (  -H "Content-Type: application/json" \\) Tj
+T* (  -H "Authorization: Bearer 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" \\) Tj
+T* (  -d '{) Tj
+T* (     "model": "gpt-3.5-turbo",) Tj
+T* (     "messages": [{"role": "user", "content": "Say this is a test!"}],) Tj
+T* (     "temperature": 0.7) Tj
+T* (   }') Tj
+T* (--------------------) Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* ($ curl https://api.openai.com/v1/chat/completions   -H "Content-Type: application/json"   -H "Authorization: Bearer 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"   -d '{) Tj
+T* (     "model": "gpt-3.5-turbo",) Tj
+T* (     "messages": [{"role": "user", "content": "Say this is a test!"}],) Tj
+T* (     "temperature": 0.7) Tj
+T* (   }') Tj
+T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj
+T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj
+T* (100   338  100   206  100   132    397    254 --:--:-- --:--:-- --:--:--   653{) Tj
+T* (    "error": {) Tj
+T* (        "message": "You exceeded your current quota, please check your plan and billing details.",) Tj
+T* (        "type": "insufficient_quota",) Tj
+T* (        "param": null,) Tj
+T* (        "code": null) Tj
+T* (    }) Tj
+T* (}) Tj
+T* () Tj
+T* (-------------------) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (https://youtu.be/8f9DfgRGOBo) Tj
+T* (https://reqres.in) Tj
+T* () Tj
+T* (https://reqres.in/api/users) Tj
+T* () Tj
+T* (curl -X POST -H "Accept:application/json" https://reqres.in/api/users -d '{"name":"NARESH","job":"AI Designer"}') Tj
+T* () Tj
+T* (TRY THE ABOVE COMMANDS ONLY IN GITBASH) Tj
+T* () Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* ($ curl -X POST -H "Accept:application/json" https://reqres.in/api/users -d '{"name":"NARESH","job":"AI Designer"}') Tj
+T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj
+T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj
+T* (100   139  100   102  100    37    156     56 --:--:-- --:--:-- --:--:--   214{"{\\"name\\":\\"NARESH\\",\\"job\\":\\"AI Designer\\"}":"","id":"471","createdAt":"2023-05-24T03:04:02.868Z"}) Tj
+T* () Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* (====================) Tj
+T* (https://reqres.in/api/users/2) Tj
+T* () Tj
+T* ({"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}) Tj
+T* () Tj
+T* () Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* ($ curl https://reqres.in/api/users/2) Tj
+T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj
+T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj
+T* (100   280  100   280    0     0    880      0 --:--:-- --:--:-- --:--:--   883{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}) Tj
+T* () Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* () Tj
+T* () Tj
+T* (curl https://reqres.in/api/users/2) Tj
+T* (curl -i https://reqres.in/api/users/2) Tj
+T* (curl --head https://reqres.in/api/users/2) Tj
+T* (curl -l https://reqres.in/api/users/2) Tj
+T* (curl -H "Accept:application/json" https://reqres.in/api/users/2) Tj
+T* () Tj
+T* () Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* ($ curl -H "Accept:application/json" https://reqres.in/api/users/2) Tj
+T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj
+T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj
+T* (100   280  100   280    0     0   1310      0 --:--:-- --:--:-- --:--:--  1320{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}) Tj
+T* () Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* () Tj
+T* () Tj
+T* (POST) Tj
+T* () Tj
+T* (curl https://reqres.in/api/users --data ) Tj
+T* (curl https://reqres.in/api/users -d "name=Narresh&job=engineer") Tj
+T* () Tj
+T* () Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* ($ curl https://reqres.in/api/users -d "name=Narresh&job=engineer") Tj
+T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj
+T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj
+T* (100   110  100    85  100    25    175     51 --:--:-- --:--:-- --:--:--   227{"name":"Narresh","job":"engineer","id":"303","createdAt":"2023-05-24T03:11:24.470Z"}) Tj
+T* () Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* ($) Tj
+T* () Tj
+T* (curl -X POST -H "Accept:application/json" https://reqres.in/api/users -d '{"name":"NarreshG","job":"Software"}') Tj
+T* () Tj
+T* () Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* ($ curl -X POST -H "Accept:application/json" https://reqres.in/api/users -d '{"name":"NarreshG","job":"Software"}') Tj
+T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj
+T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj
+T* (100   137  100   101  100    36    201     71 --:--:-- --:--:-- --:--:--   274{"{\\"name\\":\\"NarreshG\\",\\"job\\":\\"Software\\"}":"","id":"879","createdAt":"2023-05-24T03:13:23.861Z"}) Tj
+T* () Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* ($) Tj
+T* () Tj
+T* (curl https://reqres.in/api/users) Tj
+T* () Tj
+T* (curl -i -X PUT https://reqres.in/api/users/2 -d '{"name":"morpheus","job":"Software"}') Tj
+T* () Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* ($ curl -i -X PUT https://reqres.in/api/users/2 -d '{"name":"morpheus","job":"Software"}') Tj
+T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj
+T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj
+T* (100   126  100    90  100    36    165     66 --:--:-- --:--:-- --:--:--   232HTTP/2 200) Tj
+T* (date: Wed, 24 May 2023 03:18:27 GMT) Tj
+T* (content-type: application/json; charset=utf-8) Tj
+T* (content-length: 90) Tj
+T* (x-powered-by: Express) Tj
+T* (access-control-allow-origin: *) Tj
+T* (etag: W/"5a-251qx4oXK5OlJeA0+v5d0G2e/oA") Tj
+T* (via: 1.1 vegur) Tj
+T* (cf-cache-status: DYNAMIC) Tj
+T* (report-to: {"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=hBqSAcWdlWSCopocoGdUE8VrV40iaUfh4n4yDCL42cc1FHu8RwvGv6RCjR9vBTmglQHOCrsz7rq2Phc3AV9310gtH5dippJcXoL66wbtAZwZ9Z3emX8RSmTHpr2y7FGLDfxsE565DA%3D%3D"}],"group":"cf-nel","max_age":604800}) Tj
+T* (nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}) Tj
+T* (server: cloudflare) Tj
+T* (cf-ray: 7cc26437388df3d5-BOM) Tj
+T* () Tj
+T* ({"{\\"name\\":\\"morpheus\\",\\"job\\":\\"Software\\"}":"","updatedAt":"2023-05-24T03:18:27.919Z"}) Tj
+T* () Tj
+T* (Naresh@DESKTOP-P6QHRK2 MINGW64 ~) Tj
+T* () Tj
+T* () Tj
+T* (curl -i -X DELETE https://reqres.in/api/users/2) Tj
+T* () Tj
+T* () Tj
+T* ({"message":"Request failed with status code 429","name":"Error","stack":"Error: Request failed with status code 429\\n    at createError \(E:\\\\open_ai_codex\\\\project_openai_codex-main\\\\server\\\\node_modules\\\\axios\\\\lib\\\\core\\\\createError.js:16:15\)\\n    at settle \(E:\\\\open_ai_codex\\\\project_openai_codex-main\\\\server\\\\node_modules\\\\axios\\\\lib\\\\core\\\\settle.js:17:12\)\\n    at IncomingMessage.handleStreamEnd \(E:\\\\open_ai_codex\\\\project_openai_codex-main\\\\server\\\\node_modules\\\\axios\\\\lib\\\\adapters\\\\http.js:322:11\)\\n    at IncomingMessage.emit \(node:events:525:35\)\\n    at endReadableNT \(node:internal/streams/readable:1359:12\)\\n    at process.processTicksAndRejections \(node:internal/process/task_queues:82:21\)","config":{"transitional":{"silentJSONParsing":true,"forcedJSONParsing":true,"clarifyTimeoutError":false},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1,"headers":{"Accept":"application/json, text/plain, */*","Content-Type":"application/json","User-Agent":"OpenAI/NodeJS/3.1.0","Authorization":"Bearer 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","OpenAI-Organization":"org-kuTQXVi1UdmmEZ8U2CpuYEyv","Content-Length":149},"method":"post","data":"{\\"model\\":\\"text-davinci-003\\",\\"prompt\\":\\"hello how are you?\\\\n\\",\\"temperature\\":0,\\"max_tokens\\":3000,\\"top_p\\":1,\\"frequency_penalty\\":0.5,\\"presence_penalty\\":0}","url":"https://api.openai.com/v1/completions"},"status":429}) Tj
+T* () Tj
+T* (Error Code 429 - Rate limit reached for requests) Tj
+T* (https://help.openai.com/en/articles/6891829-error-code-429-rate-limit-reached-for-requests) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++) Tj
+T* (E:\\AI-Related) Tj
+T* () Tj
+T* (11111111111111) Tj
+T* (https://youtu.be/2FeymQoKvrk) Tj
+T* (https://github.com/adrianhajdin/project_openai_codex) Tj
+T* (E:\\AI-Related\\chat-gpt-api-main) Tj
+T* () Tj
+T* () Tj
+T* (2222222222222) Tj
+T* (https://youtu.be/4qNwoAAfnk4) Tj
+T* (https://github.com/WebDevSimplified/chat-gpt-api) Tj
+T* (E:\\AI-Related\\project_openai_codex-main) Tj
+T* () Tj
+T* () Tj
+T* (333333333333333) Tj
+T* () Tj
+T* (https://chat.openai.com/) Tj
+T* (https://chat.openai.com/) Tj
+T* (https://chat.openai.com/) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (https://youtu.be/Wp7kQUDaDW4) Tj
+T* (IMPORTANT) Tj
+T* (https://youtu.be/b9zzVCcGfkA) Tj
+T* (MIT APP INVENTOR) Tj
+T* (https://youtu.be/qtn1NEQMdEk) Tj
+T* () Tj
+T* (google) Tj
+T* (mit app inventor.com) Tj
+T* (https://appinventor.mit.edu/) Tj
+T* (Create Apps) Tj
+T* (sign in with google account) Tj
+T* (start new project) Tj
+T* (AiImageApp) Tj
+T* (google search) Tj
+T* (Artifical Intelligence and Open AI extenstion) Tj
+T* (https://community.appinventor.mit.edu/t/f-os-artificial-intelligence-and-openai/74469) Tj
+T* ( Downloads) Tj
+T* ( com.gordonlu.openai.aix) Tj
+T* (\(134.1 KB\)) Tj
+T* (FOR GETTING OPEN AI API KEY) Tj
+T* (google search) Tj
+T* (Open AI Developer) Tj
+T* (https://platform.openai.com/account/api-keys) Tj
+T* (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) Tj
+T* (E:\\AI-Related\\AiImageApp.apk) Tj
+T* (=============================================================) Tj
+T* (studio.d-id.com/editor) Tj
+T* () Tj
+T* () Tj
+T* (Let's build an Image Generator with OpenAI and Angular) Tj
+T* (https://youtu.be/FfehkSYT-jQ) Tj
+T* (https://youtu.be/FfehkSYT-jQ) Tj
+T* () Tj
+T* (TO RUN EXPRESS MIDDLEWARE WITH OPENAI_API_KEY) Tj
+T* (OPENAI_API_KEY=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 node index.js) Tj
+T* () Tj
+T* () Tj
+T* (https://www.youtube.com/watch?v=fU4o_BKaUZE) Tj
+T* (https://www.youtube.com/watch?v=fU4o_BKaUZE) Tj
+T* (https://github.com/bradtraversy/nodejs-openai-image) Tj
+T* (nodejs-openai-image-main.zip) Tj
+T* () Tj
+T* (E:\\AI-Related\\nodejs-openai-image-main\\nodejs-openai-image-main) Tj
+T* () Tj
+T* (npm init -y) Tj
+T* (npm i express openai dotenv) Tj
+T* (npm i -D nodemon) Tj
+T* (npm run dev) Tj
+T* (=============================================================) Tj
+T* (Angular ChatGPT) Tj
+T* () Tj
+T* (https://youtu.be/PJ1IWmUgmlc) Tj
+T* (https://youtu.be/PJ1IWmUgmlc) Tj
+T* (https://youtu.be/PJ1IWmUgmlc) Tj
+T* () Tj
+T* () Tj
+T* (USE THIS) Tj
+T* (https://youtu.be/VVGYQRhb-to) Tj
+T* (https://youtu.be/VVGYQRhb-to) Tj
+T* (https://youtu.be/VVGYQRhb-to) Tj
+T* (https://youtu.be/VVGYQRhb-to) Tj
+T* (https://github.com/webnexus-uk/Angular-Chatbot) Tj
+T* () Tj
+T* (E:\\AI-Related\\Angular-Chatbot-main\\Angular-Chatbot-main\\API) Tj
+T* (npm i) Tj
+T* (node .) Tj
+T* (Listening on port 3000) Tj
+T* () Tj
+T* () Tj
+T* (E:\\AI-Related\\Angular-Chatbot-main\\Angular-Chatbot-main\\API>node .) Tj
+T* (Listening on port 3000) Tj
+T* (----------------------------) Tj
+T* () Tj
+T* (E:\\AI-Related\\Angular-Chatbot-main\\Angular-Chatbot-main\\API>npm i) Tj
+T* () Tj
+T* (added 67 packages, and audited 68 packages in 4s) Tj
+T* () Tj
+T* (8 packages are looking for funding) Tj
+T* (  run `npm fund` for details) Tj
+T* () Tj
+T* (found 0 vulnerabilities) Tj
+T* () Tj
+T* (E:\\AI-Related\\Angular-Chatbot-main\\Angular-Chatbot-main\\API>) Tj
+T* (---------------------------) Tj
+T* (TO RUN EXPRESS MIDDLEWARE WITH OPENAI_API_KEY) Tj
+T* (AngularKey) Tj
+T* (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) Tj
+T* (.env file content) Tj
+T* (API_TOKEN="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") Tj
+T* (node index.js) Tj
+T* (---------------------------) Tj
+T* (In POSTMAN) Tj
+T* (POST) Tj
+T* (http://localhost:3000/message) Tj
+T* () Tj
+T* (Body -- raw) Tj
+T* ({) Tj
+T* (        "prompt":"what is angular explain in 10 words") Tj
+T* (}) Tj
+T* (select JSON as type of data in drop-down) Tj
+T* () Tj
+T* (RESPONSE) Tj
+T* ({) Tj
+T* (    "message": "\\n\\nA JavaScript framework for creating web applications.") Tj
+T* (}) Tj
+T* (OTHERWISE WE GET THE BELOW ERROR) Tj
+T* (response) Tj
+T* () Tj
+T* ({) Tj
+T* (    "message": "package com.example.demo.controller;\\n\\nimport com.example.demo.model.User;\\nimport com.example.demo.service.UserService;\\nimport org.springframework.beans.factory.annotation.Autowired;\\nimport org.springframework.web.bind.annotation.*;\\n\\nimport java.util.List;\\n\\n@RestController\\n@RequestMapping\(\\"/user\\"\)\\npublic class UserController {\\n\\n    @Autowired\\n    private UserService userService;\\n\\n    @GetMapping\(\\"/all\\"\)\\n    public List<User> getAllUsers\(\){\\n        return userService.getAllUsers\(\);\\n    }\\n\\n    @PostMapping\(\\"/add\\"\)\\n    public void addUser\(@RequestBody User user\){\\n        userService.addUser\(user\);\\n    }\\n\\n    @PutMapping\(\\"/update\\"\)\\n    public void updateUser\(@RequestBody User user\){\\n        userService.updateUser\(user\);\\n    }\\n\\n    @DeleteMapping\(\\"/delete/{id}\\"\)\\n    public void deleteUser\(@PathVariable int id\){\\n        userService.deleteUser\(") Tj
+T* (}) Tj
+T* () Tj
+T* () Tj
+T* (CHAT GPT - PDF:) Tj
+T* (===============) Tj
+T* (https://github.com/bhaskatripathi/pdfGPT) Tj
+T* (https://www.chatpdf.com/c/7DbYnVtrpJSODcojhv51T) Tj
+T* (https://cloud.jina.ai/pricing) Tj
+T* () Tj
+T* (https://www.producthunt.com/) Tj
+T* () Tj
+T* (https://github.com/slithery0/talking-pdf) Tj
+T* (https://github.com/slithery0/talking-pdf#readme) Tj
+T* (git clone https://github.com/slithery0/talking-pdf) Tj
+T* (cd talking-pdf) Tj
+T* (npm install) Tj
+T* (npm build && npm start) Tj
+T* (npm run build) Tj
+T* (npm start) Tj
+T* (--------------------------) Tj
+T* () Tj
+T* (E:\\AI-Related>git clone https://github.com/slithery0/talking-pdf) Tj
+T* (Cloning into 'talking-pdf'...) Tj
+T* (remote: Enumerating objects: 142, done.) Tj
+T* (remote: Counting objects: 100% \(142/142\), done.) Tj
+T* (remote: Compressing objects: 100% \(89/89\), done.) Tj
+T* (Receiving objects:  80% \(114/142\)sed 112 \(delta 31\), pack-reused 0Receiving objects:  64% \(91/142\)) Tj
+T* (Receiving objects: 100% \(142/142\), 157.82 KiB | 1.14 MiB/s, done.) Tj
+T* (Resolving deltas: 100% \(48/48\), done.) Tj
+T* () Tj
+T* (E:\\AI-Related>cd talking-pdf) Tj
+T* () Tj
+T* (E:\\AI-Related\\talking-pdf>npm install) Tj
+T* () Tj
+T* (added 215 packages, and audited 216 packages in 2m) Tj
+T* () Tj
+T* (29 packages are looking for funding) Tj
+T* (  run `npm fund` for details) Tj
+T* () Tj
+T* (found 0 vulnerabilities) Tj
+T* () Tj
+T* (E:\\AI-Related\\talking-pdf>) Tj
+T* (------------------------------) Tj
+T* () Tj
+T* (E:\\AI-Related\\talking-pdf>npm build && npm start) Tj
+T* (Unknown command: "build") Tj
+T* () Tj
+T* (Did you mean this?) Tj
+T* (    npm run build # run the "build" package script) Tj
+T* () Tj
+T* (To see a list of supported npm commands, run:) Tj
+T* (  npm help) Tj
+T* () Tj
+T* (E:\\AI-Related\\talking-pdf>npm start) Tj
+T* () Tj
+T* (> talkingpdf@0.1.0 start) Tj
+T* (> next start) Tj
+T* () Tj
+T* (ready - started server on 0.0.0.0:3000, url: http://localhost:3000) Tj
+T* (Error: Could not find a production build in the 'E:\\AI-Related\\talking-pdf\\.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id) Tj
+T* (    at NextNodeServer.getBuildId \(E:\\AI-Related\\talking-pdf\\node_modules\\next\\dist\\server\\next-server.js:198:23\)) Tj
+T* (    at new Server \(E:\\AI-Related\\talking-pdf\\node_modules\\next\\dist\\server\\base-server.js:68:29\)) Tj
+T* (    at new NextNodeServer \(E:\\AI-Related\\talking-pdf\\node_modules\\next\\dist\\server\\next-server.js:70:9\)) Tj
+T* (    at NextServer.createServer \(E:\\AI-Related\\talking-pdf\\node_modules\\next\\dist\\server\\next.js:147:16\)) Tj
+T* (    at async E:\\AI-Related\\talking-pdf\\node_modules\\next\\dist\\server\\next.js:159:31) Tj
+T* (    at async NextServer.prepare \(E:\\AI-Related\\talking-pdf\\node_modules\\next\\dist\\server\\next.js:134:24\)) Tj
+T* (    at async E:\\AI-Related\\talking-pdf\\node_modules\\next\\dist\\cli\\next-start.js:118:9) Tj
+T* () Tj
+T* (E:\\AI-Related\\talking-pdf>npm build) Tj
+T* (Unknown command: "build") Tj
+T* () Tj
+T* (Did you mean this?) Tj
+T* (    npm run build # run the "build" package script) Tj
+T* () Tj
+T* (To see a list of supported npm commands, run:) Tj
+T* (  npm help) Tj
+T* () Tj
+T* (E:\\AI-Related\\talking-pdf>npm run build) Tj
+T* () Tj
+T* (> talkingpdf@0.1.0 build) Tj
+T* (> next build) Tj
+T* () Tj
+T* (Attention: Next.js now collects completely anonymous telemetry regarding usage.) Tj
+T* (This information is used to shape Next.js' roadmap and prioritize features.) Tj
+T* (You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:) Tj
+T* (https://nextjs.org/telemetry) Tj
+T* () Tj
+T* (info  - Linting and checking validity of types) Tj
+T* (info  - Compiled successfully) Tj
+T* (info  - Collecting page data) Tj
+T* (info  - Generating static pages \(3/3\)) Tj
+T* (info  - Finalizing page optimization) Tj
+T* () Tj
+T* (Route \(pages\)                              Size     First Load JS) Tj
+T* (%  %Ë   /   \( 9 1 9 9   m s \)                                                         1 7 4   k B                     2 4 8   k B) Tj
+T* (%       / _ a p p                                                                     0   B                         7 3 . 8   k B) Tj
+T* (%  %Ë   / 4 0 4                                                                       1 8 2   B                         7 4   k B) Tj
+T* (+ First Load JS shared by all              74.3 kB) Tj
+T* (    %   c h u n k s / f r a m e w o r k - 2 c 7 9 e 2 a 6 4 a b d b 0 8 b . j s       4 5 . 2   k B) Tj
+T* (    %   c h u n k s / m a i n - 0 e c b 9 c c f c b 6 c 9 b 2 4 . j s                 2 7   k B) Tj
+T* (    %   c h u n k s / p a g e s / _ a p p - e a 2 0 a 7 f c 1 a b 7 d 2 d 5 . j s     5 5 1   B) Tj
+T* (    %   c h u n k s / w e b p a c k - 6 e f 4 3 a 8 d 4 a 3 9 5 f 4 9 . j s           9 9 9   B) Tj
+T* (    %   c s s / c 2 e f 3 7 f 4 5 d 2 6 e 9 c d . c s s                               4 9 8   B) Tj
+T* () Tj
+T* (%Ë     \( S t a t i c \)     a u t o m a t i c a l l y   r e n d e r e d   a s   s t a t i c   H T M L   \( u s e s   n o   i n i t i a l   p r o p s \)) Tj
+T* () Tj
+T* (info  - Creating an optimized production build .) Tj
+T* (E:\\AI-Related\\talking-pdf>) Tj
+T* (----------------------------------------) Tj
+T* () Tj
+T* (E:\\AI-Related\\talking-pdf>npm start) Tj
+T* () Tj
+T* (> talkingpdf@0.1.0 start) Tj
+T* (> next start) Tj
+T* () Tj
+T* (ready - started server on 0.0.0.0:3000, url: http://localhost:3000) Tj
+T* (----------------------------------------) Tj
+T* (API_TOKEN="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") Tj
+T* (what is the cap on room rent?) Tj
+T* () Tj
+T* (https://www.okta.com/) Tj
+T* () Tj
+T* (CHAT PDF - NODE JS) Tj
+T* (==================) Tj
+T* (https://github.com/RandivCosta/pdfReader-chatWithPDFs) Tj
+T* (API_TOKEN="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") Tj
+T* (-----------------------------) Tj
+T* (Microsoft Windows [Version 10.0.22621.1702]) Tj
+T* (\(c\) Microsoft Corporation. All rights reserved.) Tj
+T* () Tj
+T* (E:\\AI-Related\\pdfReader-chatWithPDFs-main\\pdfReader-chatWithPDFs-main>npm i) Tj
+T* () Tj
+T* (added 103 packages, and audited 104 packages in 23s) Tj
+T* () Tj
+T* (12 packages are looking for funding) Tj
+T* (  run `npm fund` for details) Tj
+T* () Tj
+T* (found 0 vulnerabilities) Tj
+T* () Tj
+T* (E:\\AI-Related\\pdfReader-chatWithPDFs-main\\pdfReader-chatWithPDFs-main>) Tj
+T* (---------------------------) Tj
+T* (node chain.js) Tj
+T* (E:\\AI-Related\\pdfReader-chatWithPDFs-main\\pdfReader-chatWithPDFs-main>node chain.js) Tj
+T* (Server started on 3000) Tj
+T* () Tj
+T* () Tj
+T* (http://localhost:3000/qa?query="question?") Tj
+T* (http://localhost:3000/qa?query="what is the cap amount?") Tj
+T* (http://localhost:3000/qa?query=%22what%20is%20the%20cap%20amount?%22) Tj
+T* () Tj
+T* (http://localhost:3000/qa?query="what is component?") Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (https://github.com/guangzhengli/ChatFiles) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (Text-to-text AI tools) Tj
+T* (Google Bard AI ) Tj
+T* (Chinchilla) Tj
+T* (Notion AI) Tj
+T* (Chai) Tj
+T* (NovelAI) Tj
+T* (Caktus AI) Tj
+T* (AI Dungeon) Tj
+T* (ChatGPT) Tj
+T* (Snapchat My AI) Tj
+T* (DuckAssist ) Tj
+T* (GrammarlyGO) Tj
+T* (Jenni AI) Tj
+T* (Microsoft 365 Copilot) Tj
+T* (Tongyi Qianwen) Tj
+T* (AutoGPT) Tj
+T* (If you are afraid of plagiarism, feel free to use AI plagiarism checkers. Also, you can check other AI chatbots and AI essay writers for better results.) Tj
+T* () Tj
+T* () Tj
+T* (Text-to-image AI tools) Tj
+T* (MyHeritage AI Time Machine) Tj
+T* (Reface app) Tj
+T* (Dawn AI) Tj
+T* (Lensa AI) Tj
+T* (Meitu AI Art) Tj
+T* (Stable Diffusion) Tj
+T* (DALL-E 2) Tj
+T* (Google Muse AI) Tj
+T* (Artbreeder AI) Tj
+T* (Midjourney) Tj
+T* (DreamBooth AI) Tj
+T* (Wombo Dream) Tj
+T* (NightCafe AI) Tj
+T* (QQ Different Dimension Me) Tj
+T* (Random face generators) Tj
+T* (Visual ChatGPT) Tj
+T* (Adobe Firefly AI) Tj
+T* (Leonardo AI) Tj
+T* (Hotpot AI) Tj
+T* (While there are still some debates about artificial intelligence-generated images, people are still looking for the best AI art generators. Will AI replace designers? Keep reading and find out.) Tj
+T* () Tj
+T* () Tj
+T* (AI video tools) Tj
+T* (Runway AI Gen-2) Tj
+T* (Make-A-Video) Tj
+T* (MOVIO AI) Tj
+T* (Nvidia Eye Contact AI) Tj
+T* (AI presentation tools) Tj
+T* (Tome AI) Tj
+T* (Beautiful.ai) Tj
+T* (AI search engines) Tj
+T* (Consensus AI) Tj
+T* (Google Bard) Tj
+T* (Komo AI) Tj
+T* (You.com) Tj
+T* (Bing AI) Tj
+T* (AI interior design tools) Tj
+T* (Reimagine Home AI) Tj
+T* (Interior AI) Tj
+T* (Other AI tools) Tj
+T* (Poised AI) Tj
+T* (Uberduck AI) Tj
+T* (Spotify AI DJ) Tj
+T* (Pimeyes) Tj
+T* (Microsoft Security Copilot) Tj
+T* (OpenAI ChatGPT plugins) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20230610135943+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000028765 00000 n 
+0000030582 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000028822 00000 n 
+0000028947 00000 n 
+0000029077 00000 n 
+0000029210 00000 n 
+0000029347 00000 n 
+0000029470 00000 n 
+0000029599 00000 n 
+0000029731 00000 n 
+0000029867 00000 n 
+0000029995 00000 n 
+0000030122 00000 n 
+0000030251 00000 n 
+0000030384 00000 n 
+0000030486 00000 n 
+0000030830 00000 n 
+0000030916 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <A9698EDB3353BB9F1CE99B4BBC47F5BD> <A9698EDB3353BB9F1CE99B4BBC47F5BD> ]
+>>
+startxref
+31020
+%%EOF

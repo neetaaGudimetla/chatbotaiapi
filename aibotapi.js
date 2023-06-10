@@ -444,7 +444,7 @@ async function convertTextToPDFNew(fileoriginalname, res) {
         if (err) {
             return res.status(500).send('Error reading the text file');
         }
-        console.log(text);
+        //console.log(text);
         // Create a new PDF document
         const doc = new jsPDF();
         // Add the text content to the PDF document
@@ -515,7 +515,7 @@ app.post('/convertDoc', uploadDoc.single('file'), (req, res) => {
     //upload.single('file')
     const file = req.file;
     const filenameDtTm = req.filenameDtTm;
-    console.log(file);
+    //console.log(file);
     console.log(filenameDtTm);
     //--------------------------------
     var parts = file.originalname.split('.');
