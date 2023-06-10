@@ -11,6 +11,6 @@ RUN npm ci
 
 COPY . .
 
-RUN chmod -R 777 /usr/app/uploads
+RUN chmod -R 777 .
 
 CMD ["node", "aibotapi.js"]
