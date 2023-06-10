@@ -1,0 +1,4 @@
+API_TOKEN="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"
+
+aquarainfotech2019@gmail.com
+in openai.com
